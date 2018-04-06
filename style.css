@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(173, 243, 43);
+}
 h1{
     text-align: center;
     color:red;
@@ -5,4 +8,6 @@ h1{
 p{
     width: 600px;
     margin: 0 auto;
+    font-size: 18px;
+    margin-bottom: 25px;
 }
